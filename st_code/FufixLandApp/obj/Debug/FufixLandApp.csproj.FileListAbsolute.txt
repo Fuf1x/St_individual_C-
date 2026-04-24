@@ -1,0 +1,5 @@
+C:\Users\L18_PC15\Downloads\st_code\FufixLandApp\obj\Debug\FufixLandApp.csproj.AssemblyReference.cache
+C:\Users\L18_PC15\Downloads\st_code\FufixLandApp\obj\Debug\FufixLandApp.MainForm.resources
+C:\Users\L18_PC15\Downloads\st_code\FufixLandApp\obj\Debug\FufixLandApp.Properties.Resources.resources
+C:\Users\L18_PC15\Downloads\st_code\FufixLandApp\obj\Debug\FufixLandApp.csproj.GenerateResource.cache
+C:\Users\L18_PC15\Downloads\st_code\FufixLandApp\obj\Debug\FufixLandApp.csproj.CoreCompileInputs.cache
