@@ -1,0 +1,10 @@
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\obj\Debug\CompanyITApp.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\obj\Debug\CompanyITApp.Form1.resources
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\obj\Debug\CompanyITApp.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\obj\Debug\CompanyITApp.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\obj\Debug\CompanyITApp.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\bin\Debug\CompanyITApp.exe.config
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\bin\Debug\CompanyITApp.exe
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\bin\Debug\CompanyITApp.pdb
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\obj\Debug\CompanyITApp.exe
+C:\Users\mihai\OneDrive\Desktop\C#\CompanyITApp\obj\Debug\CompanyITApp.pdb
